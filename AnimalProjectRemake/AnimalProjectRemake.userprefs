@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="AnimalProjectRemake/AnimalProjectRemake.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalProjectRemake/Program.cs">
+    <Files>
+      <File FileName="AnimalProjectRemake/Program.cs" Line="71" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

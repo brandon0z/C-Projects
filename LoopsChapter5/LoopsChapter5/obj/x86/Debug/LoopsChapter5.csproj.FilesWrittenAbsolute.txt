@@ -1,0 +1,5 @@
+/Users/brandon/Projects/LoopsChapter5/LoopsChapter5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/LoopsChapter5/LoopsChapter5/bin/Debug/LoopsChapter5.exe.mdb
+/Users/brandon/Projects/LoopsChapter5/LoopsChapter5/bin/Debug/LoopsChapter5.exe
+/Users/brandon/Projects/LoopsChapter5/LoopsChapter5/obj/x86/Debug/LoopsChapter5.exe
+/Users/brandon/Projects/LoopsChapter5/LoopsChapter5/obj/x86/Debug/LoopsChapter5.exe.mdb

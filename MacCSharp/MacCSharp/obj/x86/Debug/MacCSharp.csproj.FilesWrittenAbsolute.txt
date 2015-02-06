@@ -1,0 +1,5 @@
+/Users/brandon/Projects/MacCSharp/MacCSharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/MacCSharp/MacCSharp/bin/Debug/MacCSharp.exe.mdb
+/Users/brandon/Projects/MacCSharp/MacCSharp/bin/Debug/MacCSharp.exe
+/Users/brandon/Projects/MacCSharp/MacCSharp/obj/x86/Debug/MacCSharp.exe
+/Users/brandon/Projects/MacCSharp/MacCSharp/obj/x86/Debug/MacCSharp.exe.mdb

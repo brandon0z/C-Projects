@@ -1,0 +1,5 @@
+/Users/brandon/Projects/CalculateRectangleArea/CalculateRectangleArea/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/CalculateRectangleArea/CalculateRectangleArea/bin/Debug/CalculateRectangleArea.exe.mdb
+/Users/brandon/Projects/CalculateRectangleArea/CalculateRectangleArea/bin/Debug/CalculateRectangleArea.exe
+/Users/brandon/Projects/CalculateRectangleArea/CalculateRectangleArea/obj/x86/Debug/CalculateRectangleArea.exe
+/Users/brandon/Projects/CalculateRectangleArea/CalculateRectangleArea/obj/x86/Debug/CalculateRectangleArea.exe.mdb

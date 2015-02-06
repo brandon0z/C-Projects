@@ -1,0 +1,5 @@
+/Users/brandon/Projects/OnlineTutorialProgram/OnlineTutorialProgram/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/OnlineTutorialProgram/OnlineTutorialProgram/bin/Debug/OnlineTutorialProgram.exe.mdb
+/Users/brandon/Projects/OnlineTutorialProgram/OnlineTutorialProgram/bin/Debug/OnlineTutorialProgram.exe
+/Users/brandon/Projects/OnlineTutorialProgram/OnlineTutorialProgram/obj/x86/Debug/OnlineTutorialProgram.exe
+/Users/brandon/Projects/OnlineTutorialProgram/OnlineTutorialProgram/obj/x86/Debug/OnlineTutorialProgram.exe.mdb

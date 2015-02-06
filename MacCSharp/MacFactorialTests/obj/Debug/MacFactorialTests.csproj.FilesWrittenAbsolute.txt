@@ -1,0 +1,9 @@
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/nunit.mocks.dll
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/nunit.framework.dll
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/MacCSharp.exe
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/MacCSharp.exe.mdb
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/MacFactorialTests.dll.mdb
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/bin/Debug/MacFactorialTests.dll
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/obj/Debug/MacFactorialTests.dll
+/Users/brandon/Projects/MacCSharp/MacFactorialTests/obj/Debug/MacFactorialTests.dll.mdb

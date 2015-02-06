@@ -1,0 +1,5 @@
+/Users/brandon/Projects/MealPrice/MealPrice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/MealPrice/MealPrice/bin/Debug/MealPrice.exe.mdb
+/Users/brandon/Projects/MealPrice/MealPrice/bin/Debug/MealPrice.exe
+/Users/brandon/Projects/MealPrice/MealPrice/obj/x86/Debug/MealPrice.exe
+/Users/brandon/Projects/MealPrice/MealPrice/obj/x86/Debug/MealPrice.exe.mdb

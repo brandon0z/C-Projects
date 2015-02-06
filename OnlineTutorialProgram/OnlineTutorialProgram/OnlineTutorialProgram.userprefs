@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="OnlineTutorialProgram/OnlineTutorialProgram.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineTutorialProgram/Program.cs">
+    <Files>
+      <File FileName="OnlineTutorialProgram/Program.cs" Line="30" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

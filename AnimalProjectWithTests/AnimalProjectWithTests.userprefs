@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="AnimalProjectWithTests/AnimalProjectWithTests.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalProjectWithTests/Program.cs">
+    <Files>
+      <File FileName="AnimalProjectWithTests/Program.cs" Line="8" Column="8" />
+      <File FileName="AnimalTests/Test.cs" Line="7" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

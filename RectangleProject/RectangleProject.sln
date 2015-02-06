@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleProject", "RectangleProject\RectangleProject.csproj", "{EB5F1164-9BAA-4C24-B84B-77C5BC8A4C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTest", "RectangleTest\RectangleTest.csproj", "{6406F76D-B6FA-41F9-B621-106D0763A2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6406F76D-B6FA-41F9-B621-106D0763A2E0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6406F76D-B6FA-41F9-B621-106D0763A2E0}.Debug|x86.Build.0 = Debug|Any CPU
+		{6406F76D-B6FA-41F9-B621-106D0763A2E0}.Release|x86.ActiveCfg = Release|Any CPU
+		{6406F76D-B6FA-41F9-B621-106D0763A2E0}.Release|x86.Build.0 = Release|Any CPU
+		{EB5F1164-9BAA-4C24-B84B-77C5BC8A4C44}.Debug|x86.ActiveCfg = Debug|x86
+		{EB5F1164-9BAA-4C24-B84B-77C5BC8A4C44}.Debug|x86.Build.0 = Debug|x86
+		{EB5F1164-9BAA-4C24-B84B-77C5BC8A4C44}.Release|x86.ActiveCfg = Release|x86
+		{EB5F1164-9BAA-4C24-B84B-77C5BC8A4C44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

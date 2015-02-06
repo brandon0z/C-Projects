@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgramming", "PairProgramming\PairProgramming.csproj", "{5463EA22-444D-43F4-A914-E40FC48FD6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgrammingTests", "PairProgrammingTests\PairProgrammingTests.csproj", "{FA60A780-CA61-4B1F-9277-E36B0F492E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5463EA22-444D-43F4-A914-E40FC48FD6FB}.Debug|x86.ActiveCfg = Debug|x86
+		{5463EA22-444D-43F4-A914-E40FC48FD6FB}.Debug|x86.Build.0 = Debug|x86
+		{5463EA22-444D-43F4-A914-E40FC48FD6FB}.Release|x86.ActiveCfg = Release|x86
+		{5463EA22-444D-43F4-A914-E40FC48FD6FB}.Release|x86.Build.0 = Release|x86
+		{FA60A780-CA61-4B1F-9277-E36B0F492E57}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA60A780-CA61-4B1F-9277-E36B0F492E57}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA60A780-CA61-4B1F-9277-E36B0F492E57}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA60A780-CA61-4B1F-9277-E36B0F492E57}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

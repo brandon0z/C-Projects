@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="CalculateRectangleArea/CalculateRectangleArea.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculateRectangleArea/Program.cs">
+    <Files>
+      <File FileName="CalculateRectangleArea/Program.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

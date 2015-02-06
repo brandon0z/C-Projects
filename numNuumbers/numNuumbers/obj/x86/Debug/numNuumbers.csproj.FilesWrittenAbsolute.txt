@@ -1,0 +1,5 @@
+/Users/brandon/Projects/numNuumbers/numNuumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/numNuumbers/numNuumbers/bin/Debug/numNuumbers.exe.mdb
+/Users/brandon/Projects/numNuumbers/numNuumbers/bin/Debug/numNuumbers.exe
+/Users/brandon/Projects/numNuumbers/numNuumbers/obj/x86/Debug/numNuumbers.exe
+/Users/brandon/Projects/numNuumbers/numNuumbers/obj/x86/Debug/numNuumbers.exe.mdb

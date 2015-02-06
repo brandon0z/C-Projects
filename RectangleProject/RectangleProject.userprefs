@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="RectangleProject/RectangleProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RectangleProject/Program.cs">
+    <Files>
+      <File FileName="RectangleProject/Program.cs" Line="18" Column="18" />
+      <File FileName="RectangleTest/Test.cs" Line="27" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

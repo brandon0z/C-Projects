@@ -1,0 +1,8 @@
+/Users/brandon/Projects/rickSum/rickSum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/rickSum/rickSum/bin/Debug/rickSum.exe.mdb
+/Users/brandon/Projects/rickSum/rickSum/bin/Debug/rickSum.exe
+/Users/brandon/Projects/rickSum/rickSum/obj/x86/Debug/rickSum.exe
+/Users/brandon/Projects/rickSum/rickSum/obj/x86/Debug/rickSum.exe.mdb
+/Users/brandon/Projects/rickSum/rickSum/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/brandon/Projects/rickSum/rickSum/bin/Debug/Microsoft.Practices.Unity.Configuration.dll
+/Users/brandon/Projects/rickSum/rickSum/bin/Debug/Microsoft.Practices.Unity.RegistrationByConvention.dll

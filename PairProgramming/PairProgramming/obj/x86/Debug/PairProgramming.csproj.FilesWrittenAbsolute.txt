@@ -1,0 +1,6 @@
+/Users/brandon/Projects/PairProgramming/PairProgramming/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/PairProgramming/PairProgramming/bin/Debug/PairProgramming.exe.mdb
+/Users/brandon/Projects/PairProgramming/PairProgramming/bin/Debug/PairProgramming.exe
+/Users/brandon/Projects/PairProgramming/PairProgramming/obj/x86/Debug/PairProgramming.exe
+/Users/brandon/Projects/PairProgramming/PairProgramming/obj/x86/Debug/PairProgramming.exe.mdb
+/Users/brandon/Projects/PairProgramming/PairProgramming/bin/Debug/nunit.framework.dll

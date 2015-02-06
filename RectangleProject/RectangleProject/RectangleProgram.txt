@@ -1,0 +1,38 @@
+﻿using System;
+
+namespace RectangleProject
+{
+	class MainClass
+	{
+		static double areaMethod(double lengthAsDouble, double widthAsDouble)
+		{
+			double area = lengthAsDouble * widthAsDouble;
+			return area;
+		}
+
+		static double perimeterMethod(double lengthAsDouble, double widthAsDouble)
+		{
+			double perimeter = (2 * lengthAsDouble) + (2 * widthAsDouble);
+			return perimeter;
+		}
+
+		public static void Main()
+		{
+			Console.WriteLine("Welcome to my Rectangle Program!");
+
+			Console.WriteLine("Enter the length of the rectangle: ");
+			double lengthAsDouble = double.Parse(Console.ReadLine());
+
+			Console.WriteLine("Enter the width of the rectangle: ");
+			double widthAsDouble = double.Parse(Console.ReadLine());
+
+			var area = areaMethod(lengthAsDouble, widthAsDouble);
+			var perimeter = perimeterMethod(lengthAsDouble, widthAsDouble);
+
+			Console.WriteLine("The area of your rectangle is {0}", area);
+
+			Console.WriteLine("The perimeter of your rectangle is {0}", perimeter);
+
+		}
+	}
+}

@@ -1,0 +1,5 @@
+/Users/brandon/Projects/TargetNumber/TargetNumber/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/TargetNumber/TargetNumber/bin/Debug/TargetNumber.exe.mdb
+/Users/brandon/Projects/TargetNumber/TargetNumber/bin/Debug/TargetNumber.exe
+/Users/brandon/Projects/TargetNumber/TargetNumber/obj/x86/Debug/TargetNumber.exe
+/Users/brandon/Projects/TargetNumber/TargetNumber/obj/x86/Debug/TargetNumber.exe.mdb

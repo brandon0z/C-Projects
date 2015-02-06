@@ -1,0 +1,5 @@
+/Users/brandon/Projects/OnlineTutorialProgram/DatatypesConverstion/DatatypesConverstion/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/OnlineTutorialProgram/DatatypesConverstion/DatatypesConverstion/bin/Debug/DatatypesConverstion.exe.mdb
+/Users/brandon/Projects/OnlineTutorialProgram/DatatypesConverstion/DatatypesConverstion/bin/Debug/DatatypesConverstion.exe
+/Users/brandon/Projects/OnlineTutorialProgram/DatatypesConverstion/DatatypesConverstion/obj/x86/Debug/DatatypesConverstion.exe
+/Users/brandon/Projects/OnlineTutorialProgram/DatatypesConverstion/DatatypesConverstion/obj/x86/Debug/DatatypesConverstion.exe.mdb

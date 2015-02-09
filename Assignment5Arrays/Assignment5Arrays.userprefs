@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="PairProgramming/PairProgramming.csproj">
+﻿<Properties StartupItem="Assignment5Arrays/Assignment5Arrays.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PairProgramming/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment5Arrays/Program.cs">
     <Files>
-      <File FileName="PairProgramming/Program.cs" Line="18" Column="18" />
-      <File FileName="PairProgrammingTests/Test.cs" Line="1" Column="1" />
+      <File FileName="Assignment5Arrays/Program.cs" Line="15" Column="15" />
+      <File FileName="ArrayTest/Test.cs" Line="4" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

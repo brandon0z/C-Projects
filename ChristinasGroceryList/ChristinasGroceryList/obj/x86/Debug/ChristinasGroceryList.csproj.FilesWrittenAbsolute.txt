@@ -1,0 +1,5 @@
+/Users/brandon/Projects/ChristinasGroceryList/ChristinasGroceryList/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/ChristinasGroceryList/ChristinasGroceryList/bin/Debug/ChristinasGroceryList.exe.mdb
+/Users/brandon/Projects/ChristinasGroceryList/ChristinasGroceryList/bin/Debug/ChristinasGroceryList.exe
+/Users/brandon/Projects/ChristinasGroceryList/ChristinasGroceryList/obj/x86/Debug/ChristinasGroceryList.exe
+/Users/brandon/Projects/ChristinasGroceryList/ChristinasGroceryList/obj/x86/Debug/ChristinasGroceryList.exe.mdb

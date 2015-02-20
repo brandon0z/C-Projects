@@ -1,0 +1,5 @@
+/Users/brandon/Projects/ConsoleApplictation02092015/ConsoleApplictation02092015/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/ConsoleApplictation02092015/ConsoleApplictation02092015/bin/Debug/ConsoleApplictation02092015.exe.mdb
+/Users/brandon/Projects/ConsoleApplictation02092015/ConsoleApplictation02092015/bin/Debug/ConsoleApplictation02092015.exe
+/Users/brandon/Projects/ConsoleApplictation02092015/ConsoleApplictation02092015/obj/x86/Debug/ConsoleApplictation02092015.exe
+/Users/brandon/Projects/ConsoleApplictation02092015/ConsoleApplictation02092015/obj/x86/Debug/ConsoleApplictation02092015.exe.mdb

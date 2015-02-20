@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace Assignment5Arrays
 {
 	public class MainClass
@@ -29,7 +30,7 @@ namespace Assignment5Arrays
 		#endregion
 
 		// Define my initial groceries array
-		public string[] groceries = new string[] { "Apples", "Bananas", "Oatmeal", "Peanut Butter", " " };
+		public string[] groceries = new string[] { "Apples", "Bananas", "Oatmeal", "Peanut Butter", "" };
 
 		// This is the actual program that runs.  It will have WriteLine and ReadLine properties
 		//  from the class that allow it to write or read to the screen.
@@ -45,22 +46,21 @@ namespace Assignment5Arrays
 			// Calls method to assign user input to the last item in array
 			SetUserItem();
 
-			// Writes a blank line to the console
-			WriteLine(" ");
+			WriteLine( "\nMy updated Grocery List:" );
 
 			// Writes each item in the array to console
 			ListGroceries();
 
-			ReadLine();
+			//ReadLine();
 
 		}
 
 		// Method to list items in the groceries array
-		void ListGroceries()
+		public void ListGroceries()
 		{
 			foreach ( string s in groceries )
 			{
-			WriteLine (s);
+				WriteLine (s);
 			}
 		}
 

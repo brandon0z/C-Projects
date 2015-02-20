@@ -1,0 +1,8 @@
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/bin/Debug/nunit.framework.dll
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/bin/Debug/Assignment5Arrays.exe
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/bin/Debug/Assignment5Arrays.exe.mdb
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/bin/Debug/ArrayTest.dll.mdb
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/bin/Debug/ArrayTest.dll
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/obj/Debug/ArrayTest.dll
+/Users/brandon/Projects/Assignment5Arrays/ArrayTest/obj/Debug/ArrayTest.dll.mdb

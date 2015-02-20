@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="ChristinasGroceryList/ChristinasGroceryList.csproj">
+﻿<Properties StartupItem="ClassProject02092015/ClassProject02092015.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChristinasGroceryList/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassProject02092015/Program.cs">
     <Files>
-      <File FileName="ChristinasGroceryList/Program.cs" Line="3" Column="3" />
+      <File FileName="ClassProject02092015/Program.cs" Line="18" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

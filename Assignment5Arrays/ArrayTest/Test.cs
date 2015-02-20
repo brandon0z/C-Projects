@@ -5,14 +5,14 @@ using Assignment5Arrays;
 namespace ArrayTest
 {
 	[TestFixture]
-	public class ProgramTests
+	public class ProgramTest
 	{
 		MainClass _program;
 		List<string> _output;
 		Queue<string> _input;
 
 		[SetUp]
-		public void ProgramTestsSetup()
+		public void ProgramTestSetup()
 		{
 			_output = new List<string>();
 			_input = new Queue<string> ();
@@ -36,25 +36,21 @@ namespace ArrayTest
 			_program.Run();
 
 			Assert.Contains("My Grocery List:", _output);
-
+			Assert.Contains("What would you like to add to the list?", _output);
 		}
 
-		[Test]
-		public void TestUserItemAddedToArray()
-		{
-			_input.Enqueue("Beer");
-			_program.Run();
+//		[Test]
+//		public void TestUserItemAddedToArray()
+//		{
+//			_input.Enqueue("Beer");
+//			_program.Run();
+//
+//			// Assert that Beer is added to the 5th position in the groceryList[4] array
+//			//Assert.Contains("The number you entered is: 5", _output);
+//			Assert.That( ListGroceries, Has.None.EqualTo("") );
+//			Assert.IsNotEmpty(ListGroceries [4]);
+//
+//		}
 
-			// Assert that Beer is added to the groceryList array
-			Assert.Contains("The number you entered is: 5", _output);
-
-		}
-		[Test]
-		public void TestUserItemAddedToArray()
-		{
-			_input.Enqueue("445");
-			_program.Run();
-
-		//Assert.Contains("The number you entered is: 5", _output);
-		// Test to handle errors (integer input)
-		}
+	}
+}

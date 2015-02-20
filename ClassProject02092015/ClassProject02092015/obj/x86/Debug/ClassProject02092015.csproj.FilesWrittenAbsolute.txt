@@ -1,0 +1,5 @@
+/Users/brandon/Projects/ClassProject02092015/ClassProject02092015/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brandon/Projects/ClassProject02092015/ClassProject02092015/bin/Debug/ClassProject02092015.exe.mdb
+/Users/brandon/Projects/ClassProject02092015/ClassProject02092015/bin/Debug/ClassProject02092015.exe
+/Users/brandon/Projects/ClassProject02092015/ClassProject02092015/obj/x86/Debug/ClassProject02092015.exe
+/Users/brandon/Projects/ClassProject02092015/ClassProject02092015/obj/x86/Debug/ClassProject02092015.exe.mdb
